@@ -10,8 +10,9 @@
         "Name": "AMD Ryzen 9 5950X",
         "Cores": 16,
         "Threads": 32,
-        "Price": 799.99
+        "Price": "$799.99"
       }
+
     ],
     "Graphics Cards": [
       {
