@@ -94,14 +94,15 @@
         "Name": "Corsair Vengeance LPX",
         "Capacity": "16GB",
         "Speed": "3200MHz",
-        "Price": 129.99
+        "Price": "$129.99"
       },
       {
         "Name": "G.Skill Trident Z Neo",
         "Capacity": "32GB",
         "Speed": "3600MHz",
-        "Price": 199.99
+        "Price": "$199.99"
       }
+
     ],
     "Storage": [
       {
