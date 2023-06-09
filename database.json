@@ -92,15 +92,39 @@
     "RAM": [
       {
         "Name": "Corsair Vengeance LPX",
-        "Capacity": "16GB",
-        "Speed": "3200MHz",
-        "Price": "$129.99"
+        "Capacity": "8GB",
+        "Speed": "2666MHz",
+        "Price": "$24.99"
       },
       {
-        "Name": "G.Skill Trident Z Neo",
+        "Name": "Corsair Vengeance RGB PRO",
+        "Capacity": "16GB",
+        "Speed": "3200MHz",
+        "Price": "$49.99"
+      },
+      {
+        "Name": "Corsair Vengeance DDR5 SODIMM",
         "Capacity": "32GB",
-        "Speed": "3600MHz",
-        "Price": "$199.99"
+        "Speed": "4800MHz",
+        "Price": "$79.99"
+      },
+      {
+        "Name": "Corsair Vengeance DDR4 SODIMM",
+        "Capacity": "16GB",
+        "Speed": "3200MHz",
+        "Price": "$33.99"
+      },
+      {
+        "Name": "Corsair Vengeance DDR5 SODIMM",
+        "Capacity": "16GB",
+        "Speed": "4800Mts",
+        "Price": "$49.99"
+      },
+      {
+        "Name": "Corsair Vengeance DDR5 SODIMM",
+        "Capacity": "32GB",
+        "Speed": "4800Mts",
+        "Price": "$99.99"
       }
 
     ],
