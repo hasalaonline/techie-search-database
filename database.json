@@ -1,6 +1,13 @@
 {
     "Processors": [
       {
+        "Name": "Intel Core i3 12300HE",
+        "Cores": 4,
+        "Threads": 8,
+        "Speed":"4.3Hz",
+        "Price": "$306.00"
+      },
+      {
         "Name": "Intel Core i9-12900K",
         "Cores": 16,
         "Threads": 24,
