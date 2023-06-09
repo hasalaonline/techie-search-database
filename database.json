@@ -106,6 +106,41 @@
         "Price": "$157.00"
       },
       {
+        "Name": "Intel Core i3-13100",
+        "Cores": 4,
+        "Threads": 8,
+        "Speed":"4.50GHz",
+        "Price": "$144.00"
+      },
+      {
+        "Name": "Intel Core i3-13100F",
+        "Cores": 4,
+        "Threads": 8,
+        "Speed":"4.50GHz",
+        "Price": "$119.00"
+      },
+      {
+        "Name": "Intel Core i3-13100T",
+        "Cores": 4,
+        "Threads": 8,
+        "Speed":"4.20GHz",
+        "Price": "$134.00"
+      },
+      {
+        "Name": "Intel Core i3-13100E",
+        "Cores": 4,
+        "Threads": 8,
+        "Speed":"4.40GHz",
+        "Price": "$137.00"
+      },
+      {
+        "Name": "Intel Core i3-13100TE",
+        "Cores": 4,
+        "Threads": 8,
+        "Speed":"4.10GHz",
+        "Price": "$137.00"
+      },
+      {
         "Name": "Intel Core i9-12900K",
         "Cores": 16,
         "Threads": 24,
