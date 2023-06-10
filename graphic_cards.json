@@ -1,77 +1,83 @@
 {
     "Graphic Cards": [
-        {
-          "Name": "NVIDIA GeForce RTX 4090 ",
-          "Cores": 12288,
-          "Capacity": 2448,
-          "Price": "$1,600.00"
-        },
-        {
-          "Name": "NVIDIA GeForce RTX 4080 ",
-          "Cores": 12288,
-          "Capacity": 2448,
-          "Price": "$1,310.00"
-        },
-        {
-          "Name": "NVIDIA GeForce RTX 4070 Ti ",
-          "Cores": 12288,
-          "Capacity": 2448,
-          "Price": "$900.00"
-        },
-        {
-          "Name": "NVIDIA GeForce RTX 3090 Ti ",
-          "Cores": 12288,
-          "Capacity": 2448,
-          "Price": "$2,000.00"
-        },
-        {
-          "Name": "NVIDIA GeForce RTX 3080 Ti",
-          "Cores": 12288,
-          "Capacity": 2448,
-          "Price": "$1,200.00"
-        },
-        {
-          "Name": "NVIDIA GeForce RTX 3080  ",
-          "Cores": 12288,
-          "Capacity": 2448,
-          "Price": "$900.00"
-        },
-        {
-          "Name": "NVIDIA GeForce RTX 3070 Ti",
-          "Cores": 12288,
-          "Capacity": 2448,
-          "Price": "$700.00"
-        },
-        {
-          "Name": "NVIDIA GeForce RTX 3070 ",
-          "Cores": 12288,
-          "Capacity": 2448,
-          "Price": "$500.00"
-        },
-        {
-          "Name": "NVIDIA GeForce RTX 3060 Ti ",
-          "Cores": 12288,
-          "Capacity": 2448,
-          "Price": "$400.00"
-        },
-        {
-          "Name": "NVIDIA GeForce RTX 3060 ",
-          "Cores": 12288,
-          "Capacity": 2448,
-          "Price": "$330.00"
-        },
-        {
-          "Name": "NVIDIA GeForce RTX 3050 ",
-          "Cores": 12288,
-          "Capacity": 2448,
-          "Price": "$250.00"
-        },
-        {
-          "Name": "AMD Radeon RX 6900 XT",
-          "Cores": 16064,
-          "Capacity": 3200,
-          "Price": "$999.99"
-        }
+      {
+        "Name": "NVIDIA GeForce RTX 4090 ",
+        "Cores": 16348,
+        "Capacity": "24 GB",
+        "Price": "$1,600.00"
+      },
+      {
+        "Name": "NVIDIA GeForce RTX 4080 ",
+        "Cores": 9728,
+        "Capacity": "16 GB",
+        "Price": "$1,310.00"
+      },
+      {
+        "Name": "NVIDIA GeForce RTX 4070 Ti ",
+        "Cores": 7680,
+        "Capacity": "12GB",
+        "Price": "$900.00"
+      },
+      {
+        "Name": "NVIDIA GeForce RTX 3090 Ti ",
+        "Cores": 10752,
+        "Capacity": "24GB",
+        "Price": "$2,000.00"
+      },
+      {
+        "Name": "NVIDIA GeForce RTX 3090 ",
+        "Cores": 10496,
+        "Capacity": "24GB",
+        "Price": "$1,000.00"
+      },
+      {
+        "Name": "NVIDIA GeForce RTX 3080 Ti",
+        "Cores": 10240,
+        "Capacity": "12GB",
+        "Price": "$1,200.00"
+      },
+      {
+        "Name": "NVIDIA GeForce RTX 3080  ",
+        "Cores": 8960,
+        "Capacity": "12GB",
+        "Price": "$900.00"
+      },
+      {
+        "Name": "NVIDIA GeForce RTX 3070 Ti",
+        "Cores": 6144,
+        "Capacity": "8GB",
+        "Price": "$700.00"
+      },
+      {
+        "Name": "NVIDIA GeForce RTX 3070 ",
+        "Cores": 5888,
+        "Capacity": "8GB",
+        "Price": "$500.00"
+      },
+      {
+        "Name": "NVIDIA GeForce RTX 3060 Ti ",
+        "Cores": 4864,
+        "Capacity": "8GB",
+        "Price": "$400.00"
+      },
+      {
+        "Name": "NVIDIA GeForce RTX 3060 ",
+        "Cores": 3584,
+        "Capacity": "12GB/8GB",
+        "Price": "$330.00"
+      },
+      {
+        "Name": "NVIDIA GeForce RTX 3050 ",
+        "Cores": 2560,
+        "Capacity": "8GB",
+        "Price": "$250.00"
+      },
+      {
+        "Name": "AMD Radeon RX 6900 XT",
+        "Cores": 16064,
+        "Capacity": 3200,
+        "Price": 999.99
+      }
         
       ]
 }
