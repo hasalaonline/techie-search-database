@@ -1,0 +1,145 @@
+{
+    "Processors": [
+      {
+        "Name": "Intel Core i3-1215UL",
+        "Cores": 6,
+        "Threads": 8,
+        "Speed":"4.40GHz",
+        "Price": "$285.00"
+      },
+      {
+        "Name": "Intel Core i3-12300HL",
+        "Cores": 8,
+        "Threads": 12,
+        "Speed":"4.40GHz",
+        "Price": "$143.00"
+      },
+      {
+        "Name": "Intel Core i3-1215UE",
+        "Cores": 6,
+        "Threads": 8,
+        "Speed":"4.40GHz",
+        "Price": "$285.00"
+      },
+      {
+        "Name": "Intel Core i3-1220PE",
+        "Cores": 8,
+        "Threads": 12,
+        "Speed":"4.20GHz",
+        "Price": "$295.00"
+      },
+      {
+        "Name": "Intel Core i3-1210U",
+        "Cores": 6,
+        "Threads": 8,
+        "Speed":"4.40GHz",
+        "Price": "$114.99"
+      },
+      {
+        "Name": "Intel Core i3-1215U",
+        "Cores": 6,
+        "Threads": 8,
+        "Speed":"4.40GHz",
+        "Price": "$309.00"
+      },
+      {
+        "Name": "Intel Core i3-1220P",
+        "Cores": 10,
+        "Threads": 12,
+        "Speed":"4.40GHz",
+        "Price": "$309.00"
+      },
+      {
+        "Name": "Intel Core i3-12100",
+        "Cores": 4,
+        "Threads": 8,
+        "Speed":"4.30GHz",
+        "Price": "$134.00"
+      },
+      {
+        "Name": "Intel Core i3-12100E",
+        "Cores": 4,
+        "Threads": 8,
+        "Speed":"4.20GHz",
+        "Price": "$138.00"
+      },
+      {
+        "Name": "Intel Core i3-12100F",
+        "Cores": 4,
+        "Threads": 8,
+        "Speed":"4.30GHz",
+        "Price": "$117.00"
+      },
+      {
+        "Name": "Intel Core i3-12100T",
+        "Cores": 4,
+        "Threads": 8,
+        "Speed":"4.10GHz",
+        "Price": "$134.00"
+      },
+      {
+        "Name": "Intel Core i3-12100TE",
+        "Cores": 4,
+        "Threads": 8,
+        "Speed":"4.00GHz",
+        "Price": "$138.00"
+      },
+      {
+        "Name": "Intel Core i3-12300",
+        "Cores": 4,
+        "Threads": 8,
+        "Speed":"4.40GHz",
+        "Price": "$157.00"
+      },
+      {
+        "Name": "Intel Core i3-12300HE",
+        "Cores": 8,
+        "Threads": 12,
+        "Speed":"4.30GHz",
+        "Price": "$306.00"
+      },
+      {
+        "Name": "Intel Core i3-12300T",
+        "Cores": 4,
+        "Threads": 8,
+        "Speed":"4.20GHz",
+        "Price": "$157.00"
+      },
+      {
+        "Name": "Intel Core i3-13100",
+        "Cores": 4,
+        "Threads": 8,
+        "Speed":"4.50GHz",
+        "Price": "$144.00"
+      },
+      {
+        "Name": "Intel Core i3-13100F",
+        "Cores": 4,
+        "Threads": 8,
+        "Speed":"4.50GHz",
+        "Price": "$119.00"
+      },
+      {
+        "Name": "Intel Core i3-13100T",
+        "Cores": 4,
+        "Threads": 8,
+        "Speed":"4.20GHz",
+        "Price": "$134.00"
+      },
+      {
+        "Name": "Intel Core i3-13100E",
+        "Cores": 4,
+        "Threads": 8,
+        "Speed":"4.40GHz",
+        "Price": "$137.00"
+      },
+      {
+        "Name": "Intel Core i3-13100TE",
+        "Cores": 4,
+        "Threads": 8,
+        "Speed":"4.10GHz",
+        "Price": "$137.00"
+      }
+  
+    ]
+}

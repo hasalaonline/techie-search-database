@@ -1,0 +1,16 @@
+{
+    "Storage": [
+        {
+          "Name": "Samsung 970 EVO Plus",
+          "Capacity": "1TB",
+          "Interface": "NVMe PCIe Gen3 x4",
+          "Price": 129.99
+        },
+        {
+          "Name": "Western Digital Black SN750",
+          "Capacity": "2TB",
+          "Interface": "NVMe PCIe Gen3 x4",
+          "Price": 229.99
+        }
+      ]
+}

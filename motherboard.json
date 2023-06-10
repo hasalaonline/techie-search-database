@@ -1,0 +1,16 @@
+{
+    "Motherboards": [
+        {
+          "Name": "ASUS ROG Strix Z690-A Gaming WiFi",
+          "Chipset": "Intel Z690",
+          "Form Factor": "ATX",
+          "Price": 299.99
+        },
+        {
+          "Name": "MSI MAG Z690 Tomahawk WiFi",
+          "Chipset": "Intel Z690",
+          "Form Factor": "ATX",
+          "Price": 229.99
+        }
+      ]
+}

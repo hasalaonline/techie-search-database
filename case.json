@@ -1,0 +1,16 @@
+{
+    "Cases": [
+        {
+          "Name": "Fractal Design Meshify C ATX Mid Tower Case",
+          "Dimensions": "205 x 450 x 480mm",
+          "Weight": "8.5kg",
+          "Price": 99.99
+        },
+        {
+          "Name": "NZXT H510i Mid Tower Case",
+          "Dimensions": "210 x 420 x 440mm",
+          "Weight": "7.3kg",
+          "Price": 119.99
+        }
+      ]
+}

@@ -1,0 +1,16 @@
+{
+    "Power Supplies": [
+    {
+      "Name": "Corsair RM850x",
+      "Wattage": "850W",
+      "Efficiency Rating": "80+ Gold",
+      "Price": 129.99
+    },
+    {
+      "Name": "EVGA SuperNOVA G3 850W",
+      "Wattage": "850W",
+      "Efficiency Rating": "80+ Gold",
+      "Price": 139.99
+    }
+  ]
+}
