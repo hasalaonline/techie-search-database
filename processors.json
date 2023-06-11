@@ -139,6 +139,195 @@
         "Threads": 8,
         "Speed":"4.10GHz",
         "Price": "$137.00"
+      },
+      {
+        "Name": "Intel Core i5-12400",
+        "Cores": 6,
+        "Threads": 12,
+        "Speed":"4.40GHz",
+        "Price": "$221.00"
+      },
+      {
+        "Name": "Intel Core i5-12400F",
+        "Cores": 6,
+        "Threads": 12,
+        "Speed":"4.40GHz",
+        "Price": "$194.00"
+      },
+      {
+        "Name": "Intel Core i5-12490F",
+        "Cores": 6,
+        "Threads": 12,
+        "Speed":"4.60GHz",
+        "Price": "$250.00"
+      },
+      {
+        "Name": "Intel Core i5-12500",
+        "Cores": 6,
+        "Threads": 12,
+        "Speed":"4.60GHz",
+        "Price": "$232.00"
+      },
+      {
+        "Name": "Intel Core i5-12600",
+        "Cores": 6,
+        "Threads": 12,
+        "Speed":"4.80GHz",
+        "Price": "$255.00"
+      },
+      {
+        "Name": "Intel Core i5-12600K",
+        "Cores": 10,
+        "Threads": 16,
+        "Speed":"4.90GHz",
+        "Price": "$328.00"
+      },
+      {
+        "Name": "Intel Core i5-12600KF",
+        "Cores": 10,
+        "Threads": 16,
+        "Speed":"4.90GHz",
+        "Price": "$300.00"
+      },
+      {
+        "Name": "Intel Core i5-12500T",
+        "Cores": 6,
+        "Threads": 12,
+        "Speed":"4.40GHz",
+        "Price": "$222.00"
+      },
+      {
+        "Name": "Intel Core i5-12500E",
+        "Cores": 6,
+        "Threads": 12,
+        "Speed":"4.50GHz",
+        "Price": "$225.00"
+      },
+      {
+        "Name": "Intel Core i5-12500TE",
+        "Cores": 6,
+        "Threads": 12,
+        "Speed":"4.30GHz",
+        "Price": "$225.00"
+      },
+      {
+        "Name": "Intel Core i5-13400",
+        "Cores": 10,
+        "Threads": 16,
+        "Speed":"4.60GHz",
+        "Price": "$221.00"
+      },
+      {
+        "Name": "Intel Core i5-13400F",
+        "Cores": 10,
+        "Threads": 16,
+        "Speed":"4.60GHz",
+        "Price": "$196.00"
+      },
+      {
+        "Name": "Intel Core i5-13490F",
+        "Cores": 10,
+        "Threads": 16,
+        "Speed":"4.80GHz",
+        "Price": "$235.00"
+      },
+      {
+        "Name": "Intel Core i5-13500",
+        "Cores": 14,
+        "Threads": 20,
+        "Speed":"4.80GHz",
+        "Price": "$242.00"
+      },
+      {
+        "Name": "Intel Core i5-13600",
+        "Cores": 14,
+        "Threads": 20,
+        "Speed":"5.00GHz",
+        "Price": "$255.00"
+      },
+      {
+        "Name": "Intel Core i5-13600K",
+        "Cores": 14,
+        "Threads": 20,
+        "Speed":"5.10GHz",
+        "Price": "$329.00"
+      },
+      {
+        "Name": "Intel Core i5-13600KF",
+        "Cores": 14,
+        "Threads": 20,
+        "Speed":"5.10GHz",
+        "Price": "$304.00"
+      },
+      {
+        "Name": "Intel Core i5-13400T",
+        "Cores": 10,
+        "Threads": 16,
+        "Speed":"4.40GHz",
+        "Price": "$221.00"
+      },
+      {
+        "Name": "Intel Core i5-13500T",
+        "Cores": 14,
+        "Threads": 20,
+        "Speed":"4.60GHz",
+        "Price": "$232.00"
+      },
+      {
+        "Name": "Intel Core i5-13600T",
+        "Cores": 14,
+        "Threads": 20,
+        "Speed":"4.80GHz",
+        "Price": "$255.00"
+      },
+      {
+        "Name": "Intel Core i5-13400E",
+        "Cores": 10,
+        "Threads": 16,
+        "Speed":"4.60GHz",
+        "Price": "$224.00"
+      },
+      {
+        "Name": "Intel Core i5-13500E",
+        "Cores": 14,
+        "Threads": 20,
+        "Speed":"4.60GHz",
+        "Price": "$235.00"
+      },
+      {
+        "Name": "Intel Core i5-13500TE",
+        "Cores": 14,
+        "Threads": 20,
+        "Speed":"4.50GHz",
+        "Price": "$235.00"
+      },
+      {
+        "Name": "Intel Core i5-12450HX",
+        "Cores": 8,
+        "Threads": 12,
+        "Speed":"4.40GHz",
+        "Price": "$312.00"
+      },
+      {
+        "Name": "Intel Core i5-12600HX",
+        "Cores": 12,
+        "Threads": 16,
+        "Speed":"4.60GHz",
+        "Price": "$284.00"
+      },
+      {
+        "Name": "Intel Core i5-12450H",
+        "Cores": 8,
+        "Threads": 12,
+        "Speed":"4.40GHz",
+        "Price": "$342.00"
+      },
+      {
+        "Name": "Intel Core i5-12500H",
+        "Cores": 12,
+        "Threads": 16,
+        "Speed":"4.50GHz",
+        "Price": "$342.00"
       }
   
     ]
